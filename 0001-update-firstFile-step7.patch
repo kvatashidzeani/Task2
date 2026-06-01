@@ -1,0 +1,24 @@
+From 5883544996aa0800f48d2c43d1a993733a169f70 Mon Sep 17 00:00:00 2001
+From: Ani Kvatashidze <kvatashidzeanni@gmail.com>
+Date: Sat, 13 Jun 2026 15:45:00 +0400
+Subject: [PATCH] update firstFile step7
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 8c8d60a..77c7306 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-hello
+-hello
++hello!
++hello!!
+ hello
+ hello
+ hello
+-- 
+2.51.0.windows.1
+
